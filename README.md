@@ -1,2 +1,2 @@
-Here's my text file
-This is a readme.
+This is my text file
+This is a readme that should contain instructions.
